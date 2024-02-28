@@ -1,4 +1,4 @@
-//                                                Chapter 04
+git //                                                Chapter 04
 // Q1.
 var x =10, y = "Hello WOrld", z = true
 
@@ -44,10 +44,10 @@ console.log(hello+"\n"+_xyz+"\n"+$work+" "+_1st_user+"\n"+ i_3927);
 
                                     // illegal name:
 
-var break = 65;
-var for = 30;
-var else = 67;
-var case = 84;
+// var break = 65;
+// var for = 30;
+// var else = 67;
+// var case = 84;
 
                 // CHAPTER 05  eXPERESSION
 
